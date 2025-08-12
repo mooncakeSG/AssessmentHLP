@@ -377,6 +377,4 @@ For questions and support:
 - [ ] Mobile application
 - [ ] API service deployment
 
----
 
-**Built with ❤️ using advanced AI and NLP technologies**
