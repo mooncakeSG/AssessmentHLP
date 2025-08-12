@@ -1,0 +1,1594 @@
+{
+  "concepts": [
+    {
+      "concept": "ip",
+      "type": "technical_term",
+      "category": "networking",
+      "frequency": 874,
+      "importance": 2622
+    },
+    {
+      "concept": "port",
+      "type": "technical_term",
+      "category": "networking",
+      "frequency": 690,
+      "importance": 2070
+    },
+    {
+      "concept": "windows",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 602,
+      "importance": 1806
+    },
+    {
+      "concept": "update",
+      "type": "technical_term",
+      "category": "security",
+      "frequency": 428,
+      "importance": 1284
+    },
+    {
+      "concept": "update",
+      "type": "technical_term",
+      "category": "troubleshooting",
+      "frequency": 428,
+      "importance": 1284
+    },
+    {
+      "concept": "printer",
+      "type": "technical_term",
+      "category": "hardware",
+      "frequency": 392,
+      "importance": 1176
+    },
+    {
+      "concept": "linux",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 382,
+      "importance": 1146
+    },
+    {
+      "concept": "protocol",
+      "type": "technical_term",
+      "category": "networking",
+      "frequency": 362,
+      "importance": 1086
+    },
+    {
+      "concept": "log",
+      "type": "technical_term",
+      "category": "troubleshooting",
+      "frequency": 348,
+      "importance": 1044
+    },
+    {
+      "concept": "boot",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 302,
+      "importance": 906
+    },
+    {
+      "concept": "ram",
+      "type": "technical_term",
+      "category": "hardware",
+      "frequency": 276,
+      "importance": 828
+    },
+    {
+      "concept": "process",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 252,
+      "importance": 756
+    },
+    {
+      "concept": "storage",
+      "type": "technical_term",
+      "category": "hardware",
+      "frequency": 244,
+      "importance": 732
+    },
+    {
+      "concept": "that",
+      "type": "noun_phrase",
+      "category": "general",
+      "frequency": 690,
+      "importance": 690
+    },
+    {
+      "concept": "resource",
+      "type": "technical_term",
+      "category": "system_administration",
+      "frequency": 228,
+      "importance": 684
+    },
+    {
+      "concept": "authentication",
+      "type": "technical_term",
+      "category": "security",
+      "frequency": 206,
+      "importance": 618
+    },
+    {
+      "concept": "services",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 204,
+      "importance": 612
+    },
+    {
+      "concept": "file system",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 166,
+      "importance": 498
+    },
+    {
+      "concept": "Linux",
+      "type": "entity",
+      "category": "GPE",
+      "frequency": 236,
+      "importance": 472
+    },
+    {
+      "concept": "password",
+      "type": "technical_term",
+      "category": "security",
+      "frequency": 142,
+      "importance": 426
+    },
+    {
+      "concept": "usb",
+      "type": "technical_term",
+      "category": "hardware",
+      "frequency": 128,
+      "importance": 384
+    },
+    {
+      "concept": "shell",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 108,
+      "importance": 324
+    },
+    {
+      "concept": "driver",
+      "type": "technical_term",
+      "category": "troubleshooting",
+      "frequency": 106,
+      "importance": 318
+    },
+    {
+      "concept": "gui",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 100,
+      "importance": 300
+    },
+    {
+      "concept": "partition",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 98,
+      "importance": 294
+    },
+    {
+      "concept": "error",
+      "type": "technical_term",
+      "category": "troubleshooting",
+      "frequency": 94,
+      "importance": 282
+    },
+    {
+      "concept": "malware",
+      "type": "technical_term",
+      "category": "security",
+      "frequency": 92,
+      "importance": 276
+    },
+    {
+      "concept": "Microsoft",
+      "type": "entity",
+      "category": "ORG",
+      "frequency": 128,
+      "importance": 256
+    },
+    {
+      "concept": "frame",
+      "type": "technical_term",
+      "category": "networking",
+      "frequency": 82,
+      "importance": 246
+    },
+    {
+      "concept": "backup",
+      "type": "technical_term",
+      "category": "security",
+      "frequency": 76,
+      "importance": 228
+    },
+    {
+      "concept": "backup",
+      "type": "technical_term",
+      "category": "troubleshooting",
+      "frequency": 76,
+      "importance": 228
+    },
+    {
+      "concept": "repair",
+      "type": "technical_term",
+      "category": "troubleshooting",
+      "frequency": 72,
+      "importance": 216
+    },
+    {
+      "concept": "windows",
+      "type": "noun_phrase",
+      "category": "general",
+      "frequency": 214,
+      "importance": 214
+    },
+    {
+      "concept": "Windows",
+      "type": "entity",
+      "category": "ORG",
+      "frequency": 102,
+      "importance": 204
+    },
+    {
+      "concept": "ipv6",
+      "type": "technical_term",
+      "category": "networking",
+      "frequency": 68,
+      "importance": 204
+    },
+    {
+      "concept": "crash",
+      "type": "technical_term",
+      "category": "troubleshooting",
+      "frequency": 68,
+      "importance": 204
+    },
+    {
+      "concept": "data",
+      "type": "noun_phrase",
+      "category": "general",
+      "frequency": 196,
+      "importance": 196
+    },
+    {
+      "concept": "packet",
+      "type": "technical_term",
+      "category": "networking",
+      "frequency": 64,
+      "importance": 192
+    },
+    {
+      "concept": "encryption",
+      "type": "technical_term",
+      "category": "security",
+      "frequency": 64,
+      "importance": 192
+    },
+    {
+      "concept": "memory",
+      "type": "technical_term",
+      "category": "operating_systems",
+      "frequency": 60,
+      "importance": 180
+    },
+    {
+      "concept": "Android",
+      "type": "entity",
+      "category": "ORG",
+      "frequency": 88,
+      "importance": 176
+    },
+    {
+      "concept": "vpn",
+      "type": "technical_term",
+      "category": "networking",
+      "frequency": 58,
+      "importance": 174
+    },
+    {
+      "concept": "they",
+      "type": "noun_phrase",
+      "category": "general",
+      "frequency": 168,
+      "importance": 168
+    },
+    {
+      "concept": "which",
+      "type": "noun_phrase",
+      "category": "general",
+      "frequency": 165,
+      "importance": 165
+    },
+    {
+      "concept": "router",
+      "type": "technical_term",
+      "category": "networking",
+      "frequency": 54,
+      "importance": 162
+    },
+    {
+      "concept": "nfc",
+      "type": "technical_term",
+      "category": "networking",
+      "frequency": 54,
+      "importance": 162
+    },
+    {
+      "concept": "certificate",
+      "type": "technical_term",
+      "category": "security",
+      "frequency": 54,
+      "importance": 162
+    },
+    {
+      "concept": "patch",
+      "type": "technical_term",
+      "category": "security",
+      "frequency": 54,
+      "importance": 162
+    },
+    {
+      "concept": "DLL",
+      "type": "entity",
+      "category": "ORG",
+      "frequency": 80,
+      "importance": 160
+    },
+    {
+      "concept": "this",
+      "type": "noun_phrase",
+      "category": "general",
+      "frequency": 160,
+      "importance": 160
+    }
+  ],
+  "topics": [],
+  "facts": [
+    {
+      "statement": "Google IT Support Professional Training (took 137hrs) Course #1: Technical Support Fundamentals Supplemental Reading on Connector Types USB 2.0, 3.0 & 3.1 Micro USB, USB-C & Lightning Port Communication Connectors Device Connectors Punch Down Blocks Key Takeaways When repairing mobile devices, Mobile Display Types Liquid Crystal Display (LCD) In-Plane Switching (IPS) Twisted Nematic (TN) VA-Vertical Alignment Organic Light Emitting Diodes (OLED) Active Matrix Organic Light Emitting Diode (AMOLED) Inorganic mini-LEDs (mLEDs) Inorganic micro-LEDs (μLEDs) Key takeaways What is a cyclical redundancy check?",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "google",
+        "support",
+        "professional",
+        "training",
+        "course"
+      ]
+    },
+    {
+      "statement": "Boot Methods Internal method External tools External bootable devices include: Window OS or Linux OS macOS Key Takeaways Boot Methods Best Practices The boot process Configuring boot options Boot method options External options Internal options Key Takeaways Windows 10 and 11 Feature Matrix Features Services and settings Key takeaways Common Scripting Solutions Scripting languages Scripting uses - finding the right tool for the job Security risks of using scripts Key takeaways Wolcott | 1 Technical Interview Prep Course #2: The Bits and Bytes of Computer Networking TCP/IP Five-Layer Network Protocol Dissection of a TCP Segment (below) Non-routable IP Addresses: Socket States System Ports versus Ephemeral Ports TCP ports and sockets Three categories of ports How TCP is used to ensure data integrity Port security Key takeaways Broadband Protocols Point to Point Protocol (PPP) Configuring PPP Sub-protocols for PPP Encapsulation Point to Point Protocol over Ethernet (PPPoE) Key takeaways Wan Protocols V2 Physical versus software-based WANs WAN optimization WAN Protocols Wi-Fi 6 Benefits of Wi-Fi 6 Capabilities of Wi-Fi 6 Wi-Fi 6E extends Wi-Fi 6 into 6 GHz Key takeaways Resource for more information Alphabet Soup: Wi-Fi Standards Wi-Fi 2.4 GHz and 5 GHz frequencies 2.4 GHz 5 GHz IEEE 802.11 standards IEEE 802.11 major updates list: IoT Data Transfer Protocols Data protocol models used with IoT IoT data protocols at the application layer WPA3 Protocols & Encryption WPA3-Personal WPA3-Enterprise Key takeaways Wireless Network Protocols for IoT IoT wireless network protocols at the physical layer Ways to investigate connection issues: Supplemental Reading for IPv6 and IPv4 Harmony Wolcott | 2 IPv6 and IPv4 harmony Tunneling Three types of tunnels Key takeaways Course #3: Operating Systems and You: Becoming a Power User Windows Powershell Commands [note that cmd.exe commands are from DOS]: Linux CLI Commands: Common Root Directory Subfolders Files and Permissions Package & Software Management Windows Software Packages Installation Package Portable Executable Self-extracting Executable App Packager Microsoft Store Key takeaways Resources for more information Mobile App Distribution How apps are distributed Apple mobile apps Custom Apple apps Android mobile apps Resources for more information Mobile App Packages: App Updates How to update apps Android mobile apps Apple mobile devices Resources for more information Mobile Device Storage Space Apple mobile devices Android mobile devices DLL Files and Windows Package Dependencies Dynamic link library (DLL) DLL dependencies Side-by-side assemblies Linux Package Dependencies The dpkg command Syntax Additional Debian package managers Package Managers Software Managers Linux Devices and Drivers Installing a device in Linux Device autodetect with udev Installation through a user interface - GNOME Wolcott | 3 How to check if a device is installed Windows Update Types of Windows updates Installing updates Automatic updates Manual updates Key takeaways Linux Update Linux kernel Updating Ubuntu Linux distribution Key Takeaways Resources for more information File Systems How to Format a Filesystem Disk Partitioning and Formatting in Windows DiskPart Cluster Size Key Takeaways Don’t forget to mount/ unmount external filesystems!",
+      "type": "process",
+      "confidence": 1.0,
+      "keywords": [
+        "boot",
+        "methods",
+        "internal",
+        "method",
+        "external"
+      ]
+    },
+    {
+      "statement": "Mounting and Unmounting a File System in Linux File system table (fstab) Fstab options Editing the fstab table Windows Swap Space Windows Paging Files Page file sizing Linux Swap Space Process Management Resource Management Resource Monitoring in Linux Load in Linux Load average in Linux Top Key Takeaways Remote Connections in Windows SSH OpenSSH Common SSH Clients Key Takeaways Resources Virtual Machines How VMs work VM software Key takeaways More resources Logs Wolcott | 4 OS Deployment Methods Hard disk duplicator Disk cloning software Methods for deploying disk clones Flash drive distribution The Linux dd command Key takeaways Windows Troubleshooting Solving the problem An example scenario Accessing logs through the Windows GUI tool Interpreting the log file Key takeaways Windows Troubleshooting Tools Troubleshooting tools for Windows Common problems in Windows Resources Example Troubleshooting a problem in Windows Resources Course #4: System Administration and IT Infrastructure Services Change Management IT change management plans Change board approvals User acceptance Recording your actions Reproduction Phase (Roadmapping a user-end error) Week 2: IT Infrastructure Services Remote connections Remote access software for IT management Remote access software Third party tools Resources for more information PowerShell Managing Services Linux Shell Managing Services Configuring DNS w/ Dnsmasq (in linux) Configuring DHCP w/ Dnsmasq (in linux) Popular Email Protocols: Spam Management and Mitigation Types of spam Spam mitigation and management solutions: Resources for more information Web Server Security Mobile Synchronization Mobile synchronization as backup Mobile synchronization for collaboration and productivity platforms Sync Microsoft 365 to a mobile device Wolcott | 5 Sync Google Workspace to a mobile device Key takeaways Print Services Printing languages Printer Control Language (PCL) PostScript (PS) Basic printer configuration settings Sharing a printer on a network Network scan services Printer security Key takeaways Resources for more information Printers Printer technologies Viewing your printers Installing a printer Virtual Printers Printer Sharing Network Printers Print Servers Nice Troubleshooting Printers Module Common Printer Types Module Platform Services Load Balancers Load balancing terminology Example ADC process for load balancing Load balancing types Load balancers in cloud environments Load balancers in physical environments Common Cloud Models Types of cloud services Software as a Service (SaaS) Platform as a Service (PaaS) Infrastructure as a Service (IaaS) VPN as a Service (VPNaaS) Function as a Service (FaaS) Data as a Service (DaaS) Blockchain as a Service (BaaS) Four types of cloud computing Key Takeaways Resource for more information Managing Cloud Resources Directory Services Windows Files Linux Files How Windows Repairs Files Wolcott | 6 How Linux Repairs Files Linux File System Repair Symptoms of data corruption Causes of data corruption Data corruption repair The fsck command How to use the fsck command How to run fsck on the next boot or reboot Edit & Create Group (GPO) Policies using GPMT Group Policy Troubleshooting Mobile Device Management (MDM) Systems Data Recovery Deploying Software/ Files to Different Groups Course #5: IT Security: Defense against the Digital Dark Arts Starting Here from Week 2 (Go over Week 1 notes on Coursera) Physical Privacy and Security Components CIA Principle: Confidentiality Something you are: Biometrics Fingerprint scanning Facial recognition Iris and Retinal scanning Somewhere you are: Geolocation Geofencing Global Positioning Systems (GPS) Indoor Positioning Systems (IPS) Near-field communication (NFC) and scanners Something you do: Gestures and Behaviors Key takeaways Resources for more information Kerberos (Big detailed stuff) Single Sign-On Authorization and Access Control Mobile Security Methods Common mobile security threats and challenges Security measures used to protect mobile devices Screen Locks Remote wipes Policies and procedures Key takeaways: Top 4 mobile security threats and challenges for businesses nesses The ultimate guide to mobile device security in the workplace place What Is the CIA Triad?",
+      "type": "process",
+      "confidence": 1.0,
+      "keywords": [
+        "unmounting",
+        "file",
+        "system",
+        "linux",
+        "file"
+      ]
+    },
+    {
+      "statement": "OAuth Accounting Walkthrough of “One of the more secure wireless configurations” IEEE 802.1X IEEE 802.1X Protocol Authentication Authentication methods Shared Key authentication methods Key takeaways WEP Alternatives to WEP (That were WEP hardware compatible) Network Monitoring Unified Threat Management (UTM) UTM options and configurations Stream-based vs. proxy-based UTM inspections Benefits of using UTM Risks of using UTM Key takeaways Home Network Security Common security vulnerabilities Keeping home networks secure Key takeaways Host-Based Firewalls Logs, Analysis, Incident Investigation Windows Defender Guide ]Microsoft 365 Defender Microsoft 365 Defender services Using Microsoft 365 Defender Microsoft 365 Defender in action User Account Control (UAC) Resources for more information Anti-Malware Protection Disk Encryption Supplemental Reading on Disk Encryption Tools Browser Hardening Identifying trusted versus untrusted sources Secure connections and sites Password managers Browser settings Key takeaways Resources for more information WEEK 6 BABAY!",
+      "type": "process",
+      "confidence": 1.0,
+      "keywords": [
+        "oauth",
+        "accounting",
+        "walkthrough",
+        "secure",
+        "wireless"
+      ]
+    },
+    {
+      "statement": "Watt is a a combo like how meters per second is a combo of distance and time (These combos are called “vectors” in math) ● Most desktops can work with a 500w power supply, but high performance shit like video editing or gaming may benefit from a higher wattage.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "watt",
+        "combo",
+        "meters",
+        "combo",
+        "distance"
+      ]
+    },
+    {
+      "statement": "A standard ATX motherboard power adaptor has either 20-pins or 24-pins to connect these wires.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "standard",
+        "atx",
+        "motherboard",
+        "power",
+        "adaptor"
+      ]
+    },
+    {
+      "statement": "The 24-pin connector was developed to provide more power to support additional expansion cards, powerful CPUs, and more.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "pin",
+        "connector",
+        "power",
+        "additional",
+        "expansion"
+      ]
+    },
+    {
+      "statement": "The 24-pin connector has become the standard for today’s personal computer power supplies and motherboards.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "pin",
+        "connector",
+        "standard",
+        "today",
+        "personal"
+      ]
+    },
+    {
+      "statement": "The power supply will have multiple connectors that plug into the motherboard, hard drives, and graphic cards.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "power",
+        "supply",
+        "multiple",
+        "connectors",
+        "motherboard"
+      ]
+    },
+    {
+      "statement": "Each cable has a specific purpose and delivers the appropriate amount of electricity to the following parts: Connections from a PC power supply (ATX 2) 1.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "cable",
+        "specific",
+        "purpose",
+        "appropriate",
+        "electricity"
+      ]
+    },
+    {
+      "statement": "IT often works with and troubleshoots these peripherals, so it is helpful to understand the types of connectors.",
+      "type": "troubleshooting",
+      "confidence": 1.0,
+      "keywords": [
+        "peripherals",
+        "helpful",
+        "types",
+        "connectors"
+      ]
+    },
+    {
+      "statement": "USB connectors are the most popular connectors for all types of peripherals.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "usb",
+        "connectors",
+        "popular",
+        "connectors",
+        "types"
+      ]
+    },
+    {
+      "statement": "There are three generations of USB type A connectors in use today: USB 2.0, 3.0, and 3.1.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "generations",
+        "usb",
+        "type",
+        "connectors",
+        "use"
+      ]
+    },
+    {
+      "statement": "● Micro USB is a small USB port found on many non-Apple cellphones, tablets, and other portable devices.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "micro",
+        "usb",
+        "small",
+        "usb",
+        "port"
+      ]
+    },
+    {
+      "statement": "● USB-C is the newest reversible connector with either end having the same build.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "usb",
+        "c",
+        "newest",
+        "reversible",
+        "connector"
+      ]
+    },
+    {
+      "statement": "● Lightning Port is a connector exclusive to Apple that is similar to USB-C.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "lightning",
+        "port",
+        "connector",
+        "exclusive",
+        "apple"
+      ]
+    },
+    {
+      "statement": "It is used for charging and connecting devices to computers, external monitors, cameras and other peripherals.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "devices",
+        "computers",
+        "external",
+        "monitors",
+        "cameras"
+      ]
+    },
+    {
+      "statement": "The RJ-45 connects a computer to network elements and is mostly used with ethernet cables.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "rj-45",
+        "computer",
+        "network",
+        "elements",
+        "ethernet"
+      ]
+    },
+    {
+      "statement": "DB89 connectors are used for older peripherals like keyboards, mice, and joysticks.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "db89",
+        "connectors",
+        "older",
+        "peripherals",
+        "keyboards"
+      ]
+    },
+    {
+      "statement": "Punch Down Blocks A punch down block is a terminal strip used to connect telephone or data lines.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "blocks",
+        "punch",
+        "block",
+        "terminal",
+        "strip"
+      ]
+    },
+    {
+      "statement": "● USB connectors are the most common connector type and they transfer data and power to devices connected to a computer.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "usb",
+        "connectors",
+        "common",
+        "connector",
+        "type"
+      ]
+    },
+    {
+      "statement": "● Punch down blocks are terminal strips used to connect telephone or data lines.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "blocks",
+        "terminal",
+        "strips",
+        "telephone",
+        "data"
+      ]
+    },
+    {
+      "statement": "In your IT job role, you should have a basic understanding of the technology behind modern displays, as well as their common uses, positive features, and negative flaws.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "job",
+        "role",
+        "basic",
+        "understanding",
+        "technology"
+      ]
+    },
+    {
+      "statement": "The top two technologies used in mobile system displays are Liquid Crystal Displays (LCD) and Light Emitting Diodes (LED).",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "technologies",
+        "mobile",
+        "system",
+        "displays",
+        "liquid"
+      ]
+    },
+    {
+      "statement": "How the liquid crystals are arranged and manipulated inside display panels affects refresh rates, image quality, and display performance.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "liquid",
+        "crystals",
+        "display",
+        "panels",
+        "refresh"
+      ]
+    },
+    {
+      "statement": "The following are common LCD display types used for mobile devices: In-Plane Switching (IPS) ● How it works: In IPS displays, the liquid crystals are aligned horizontally to the screen.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "common",
+        "lcd",
+        "display",
+        "types",
+        "mobile"
+      ]
+    },
+    {
+      "statement": "● Uses: IPS technology is used in touch screen displays and high-end monitors.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "uses",
+        "ips",
+        "technology",
+        "touch",
+        "screen"
+      ]
+    },
+    {
+      "statement": "However, response times have been improving as the IPS technology evolves.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "response",
+        "times",
+        "ips",
+        "technology"
+      ]
+    },
+    {
+      "statement": "IPS displays can be affected by “IPS Glow”, where the backlight is visible from side viewing angles.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "ips",
+        "displays",
+        "ips",
+        "glow",
+        "backlight"
+      ]
+    },
+    {
+      "statement": "Twisted Nematic (TN) Twisted Nematic (TN) is the earliest LCD technology that is still in use today.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "twisted",
+        "nematic",
+        "tn",
+        "twisted",
+        "nematic"
+      ]
+    },
+    {
+      "statement": "The term nematic, which means “threadlike,” is used to describe the appearance of the molecules inside the liquid.",
+      "type": "definition",
+      "confidence": 1.0,
+      "keywords": [
+        "term",
+        "nematic",
+        "threadlike",
+        "appearance",
+        "molecules"
+      ]
+    },
+    {
+      "statement": "They are also used for games that need rapid display response times.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "games",
+        "rapid",
+        "display",
+        "response",
+        "times"
+      ]
+    },
+    {
+      "statement": "Active Matrix Organic Light Emitting Diode (AMOLED) Active Matrix Organic Light Emitting Diode (AMOLED) and Super AMOLED are recent technologies used in smartphone displays.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "active",
+        "matrix",
+        "organic",
+        "light",
+        "emitting"
+      ]
+    },
+    {
+      "statement": "● How it works: AMOLED displays are a type of OLED panel that uses active matrix technology.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "displays",
+        "type",
+        "panel",
+        "active",
+        "matrix"
+      ]
+    },
+    {
+      "statement": "Inorganic mini-LEDs (mLEDs) Inorganic mini-LEDs (mLEDs) are a next-generation, emissive display technology.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "inorganic",
+        "mini",
+        "-",
+        "leds",
+        "mleds"
+      ]
+    },
+    {
+      "statement": "Wolcott | 15 ● Negatives: Mini-LED displays, when used as LCD backlighting, are limited by the properties of LCD technology.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "|",
+        "negatives",
+        "mini",
+        "-",
+        "displays"
+      ]
+    },
+    {
+      "statement": "Key takeaways The two main technologies used in mobile displays are Liquid Crystal Display (LCD) and Organic Light Emitting Diodes (OLED).",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "key",
+        "takeaways",
+        "main",
+        "technologies",
+        "mobile"
+      ]
+    },
+    {
+      "statement": "Each technology has its own benefits and drawbacks when used in mobile device displays, among other consumer goods.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "technology",
+        "benefits",
+        "drawbacks",
+        "mobile",
+        "device"
+      ]
+    },
+    {
+      "statement": "● Common LCDs include: ○ In-Plane Switching (IPS) displays ○ Twisted Nematic (TN) displays ○ VA-Vertical Alignment displays ● Common and upcoming OLED displays include: ○ Active Matrix Organic Light Emitting Diode (AMOLED) displays ○ Inorganic mini-LEDs (mLEDs) displays ○ Inorganic micro-LEDs (μLEDs) displays What is a cyclical redundancy check?",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "common",
+        "lcds",
+        "○",
+        "plane",
+        "switching"
+      ]
+    },
+    {
+      "statement": "Ethernet is a data link level protocol How the fuck do we prevent the electrical currents representing our 1s and 0s from crashing into each other?",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "ethernet",
+        "data",
+        "link",
+        "level",
+        "protocol"
+      ]
+    },
+    {
+      "statement": "A common reason to partition your drive is to have two separate operating systems on your computer, such as both Windows and Linux.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "common",
+        "reason",
+        "drive",
+        "separate",
+        "operating"
+      ]
+    },
+    {
+      "statement": "When you have two operating systems on your drive, you must choose which one will run the boot process.",
+      "type": "process",
+      "confidence": 1.0,
+      "keywords": [
+        "operating",
+        "systems",
+        "drive",
+        "boot",
+        "process"
+      ]
+    },
+    {
+      "statement": "Having two possible systems to boot into is called dual booting.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "possible",
+        "systems",
+        "dual",
+        "booting"
+      ]
+    },
+    {
+      "statement": "Wolcott | 16 While having two operating systems can be helpful for various reasons, it is especially helpful when one system is failing or unable to boot.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "|",
+        "operating",
+        "systems",
+        "helpful",
+        "reasons"
+      ]
+    },
+    {
+      "statement": "This drive is inserted into a USB port and chosen at startup.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "drive",
+        "usb",
+        "port",
+        "startup"
+      ]
+    },
+    {
+      "statement": "This disk can be a DVD, CD, or Blu-ray disk and is loaded through the computer's optical drive.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "disk",
+        "dvd",
+        "cd",
+        "blu",
+        "ray"
+      ]
+    },
+    {
+      "statement": "● Internet-based boot: You boot the computer from an internet source, as long as it is a secure source.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "internet",
+        "boot",
+        "computer",
+        "internet",
+        "source"
+      ]
+    },
+    {
+      "statement": "From there you can change the boot order so that the first option is the external tool you want to use.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "boot",
+        "order",
+        "option",
+        "external",
+        "tool"
+      ]
+    },
+    {
+      "statement": "Key Takeaways There are multiple ways to boot a computer.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "key",
+        "takeaways",
+        "multiple",
+        "ways",
+        "computer"
+      ]
+    },
+    {
+      "statement": "Ethernet Frame Pictured RIght → Boot Methods Best Practices Wolcott | 17 The most common way to boot a computer is to simply push the power button and allow the normal startup process to run.",
+      "type": "process",
+      "confidence": 1.0,
+      "keywords": [
+        "ethernet",
+        "frame",
+        "right",
+        "boot",
+        "methods"
+      ]
+    },
+    {
+      "statement": "For situations like these, you have several options for booting your operating system.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "situations",
+        "options",
+        "operating",
+        "system"
+      ]
+    },
+    {
+      "statement": "The boot process When your computer is powered on, the BIOS/UEFI (BIOS) runs a series of diagnostic tests to make sure that the computer is in proper working order.",
+      "type": "process",
+      "confidence": 1.0,
+      "keywords": [
+        "boot",
+        "process",
+        "computer",
+        "bios",
+        "uefi"
+      ]
+    },
+    {
+      "statement": "The BIOS is a low-level software that initializes a computer's hardware to make sure everything is good to go.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "bios",
+        "low",
+        "level",
+        "software",
+        "computer"
+      ]
+    },
+    {
+      "statement": "A boot device is selected based on a boot order that is configured in the BIOS.",
+      "type": "configuration",
+      "confidence": 1.0,
+      "keywords": [
+        "boot",
+        "device",
+        "boot",
+        "order",
+        "bios"
+      ]
+    },
+    {
+      "statement": "Devices that are attached to your system, like hard drives, USB drives, and CD drives are checked in this configured boot order and the computer searches these devices for a small program called a “bootloader.” Once your computer finds a bootloader on a device, it executes this program.",
+      "type": "configuration",
+      "confidence": 1.0,
+      "keywords": [
+        "devices",
+        "system",
+        "hard",
+        "drives",
+        "usb"
+      ]
+    },
+    {
+      "statement": "Configuring boot options Boot order is the order in which a computer chooses which boot files to use to startup.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "boot",
+        "options",
+        "boot",
+        "order",
+        "order"
+      ]
+    },
+    {
+      "statement": "The Boot Options menu is where you can set your preferred boot method.",
+      "type": "process",
+      "confidence": 1.0,
+      "keywords": [
+        "boot",
+        "options",
+        "menu",
+        "preferred",
+        "boot"
+      ]
+    },
+    {
+      "statement": "This drive is inserted into a USB port and chosen at startup.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "drive",
+        "usb",
+        "port",
+        "startup"
+      ]
+    },
+    {
+      "statement": "This disk can be a DVD, CD, or Blu-ray disk and is loaded through the computer's optical drive.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "disk",
+        "dvd",
+        "cd",
+        "blu",
+        "ray"
+      ]
+    },
+    {
+      "statement": "The USB drive and optical media methods are useful for recovering a computer with a corrupted OS.",
+      "type": "process",
+      "confidence": 1.0,
+      "keywords": [
+        "usb",
+        "drive",
+        "optical",
+        "media",
+        "methods"
+      ]
+    },
+    {
+      "statement": "The network boot is used when the computer does not have an OS installed, among other things.",
+      "type": "configuration",
+      "confidence": 1.0,
+      "keywords": [
+        "network",
+        "boot",
+        "computer",
+        "os",
+        "things"
+      ]
+    },
+    {
+      "statement": "To boot from a network, you will need to set up the Preboot Execution Environment (PXE) capability on the BIOS and have the network environment prepared for this type of request (see resources linked below).",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "network",
+        "preboot",
+        "execution",
+        "environment",
+        "pxe"
+      ]
+    },
+    {
+      "statement": "● Internet-based boot: You boot the computer from an internet source, as long as it is a secure source.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "internet",
+        "boot",
+        "computer",
+        "internet",
+        "source"
+      ]
+    },
+    {
+      "statement": "Remote Access Controller (IPMI or similar) has to be enabled on the BIOS and the computer needs to have a Remote access control device, such as IDRAC (see resources linked below).",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "remote",
+        "access",
+        "controller",
+        "ipmi",
+        "similar"
+      ]
+    },
+    {
+      "statement": "The WoL instruction should come from a device in the network or use a WoL gateway, and the network card should have WoL capability.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "wol",
+        "instruction",
+        "device",
+        "network",
+        "wol"
+      ]
+    },
+    {
+      "statement": "A common reason to partition your drive is to have two separate operating systems on your computer.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "common",
+        "reason",
+        "drive",
+        "separate",
+        "operating"
+      ]
+    },
+    {
+      "statement": "For example, you could have Windows on one partition of your drive and Linux on the other.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "example",
+        "windows",
+        "partition",
+        "drive",
+        "linux"
+      ]
+    },
+    {
+      "statement": "When you have two operating systems on your drive, you must choose which one will run the boot process.",
+      "type": "process",
+      "confidence": 1.0,
+      "keywords": [
+        "operating",
+        "systems",
+        "drive",
+        "boot",
+        "process"
+      ]
+    },
+    {
+      "statement": "Having two possible systems to boot into is called dual booting.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "possible",
+        "systems",
+        "dual",
+        "booting"
+      ]
+    },
+    {
+      "statement": "While having two operating systems can be helpful for various reasons, it is especially helpful when one system is failing or unable to boot.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "operating",
+        "systems",
+        "helpful",
+        "reasons",
+        "helpful"
+      ]
+    },
+    {
+      "statement": "Key Takeaways There are multiple ways to boot a computer.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "key",
+        "takeaways",
+        "multiple",
+        "ways",
+        "computer"
+      ]
+    },
+    {
+      "statement": "The Kernel Space is what the OS is handling in the background.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "kernel",
+        "space",
+        "os",
+        "background"
+      ]
+    },
+    {
+      "statement": "Wolcott | 19 Windows 10 and 11 Feature Matrix Windows 10 and 11 are two operating systems IT Professionals work with.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "|",
+        "windows",
+        "feature",
+        "matrix",
+        "windows"
+      ]
+    },
+    {
+      "statement": "This reading describes the differences between them and highlights features that are important to IT.",
+      "type": "comparison",
+      "confidence": 1.0,
+      "keywords": [
+        "reading",
+        "differences",
+        "features",
+        "important"
+      ]
+    },
+    {
+      "statement": "Windows 11 was released more recently and has higher system requirements than Windows 10.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "windows",
+        "higher",
+        "system",
+        "requirements",
+        "windows"
+      ]
+    },
+    {
+      "statement": "Windows 11’s design is more minimal, corners have been rounded, and colors are pastel.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "windows",
+        "design",
+        "minimal",
+        "corners",
+        "colors"
+      ]
+    },
+    {
+      "statement": "Another difference is in Windows 10, the start menu and taskbar are in the bottom left corner.",
+      "type": "comparison",
+      "confidence": 1.0,
+      "keywords": [
+        "difference",
+        "windows",
+        "start",
+        "menu",
+        "taskbar"
+      ]
+    },
+    {
+      "statement": "In Windows 11, the start menu and taskbar are centered along the bottom.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "windows",
+        "start",
+        "menu",
+        "taskbar"
+      ]
+    },
+    {
+      "statement": "● Virtual desktop: In Windows 10 it is possible to use Virtual Desktops, but it is unintuitive to set up.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "virtual",
+        "desktop",
+        "windows",
+        "possible",
+        "virtual"
+      ]
+    },
+    {
+      "statement": "In Windows 11, the support for virtual desktops is more user-friendly making it easy to set up different desktops for work and personal use.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "windows",
+        "support",
+        "virtual",
+        "desktops",
+        "user"
+      ]
+    },
+    {
+      "statement": "● Teams: In Windows 10, Teams is included in the operating system, but defaults to Skype for video conferencing.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "teams",
+        "windows",
+        "teams",
+        "operating",
+        "system"
+      ]
+    },
+    {
+      "statement": "In Windows 11, Teams is featured prominently and incorporated into the taskbar and no longer defaults to Skype for video conferencing.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "windows",
+        "teams",
+        "taskbar",
+        "defaults",
+        "skype"
+      ]
+    },
+    {
+      "statement": "● Widgets: In Windows 10, there are desktop gadgets similar to widgets that can be added to the start menu.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "widgets",
+        "windows",
+        "desktop",
+        "gadgets",
+        "similar"
+      ]
+    },
+    {
+      "statement": "● Touch and pen: Windows 11 has added more features for touch and pen use on supported devices, including vibration features for pens.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "touch",
+        "pen",
+        "windows",
+        "features",
+        "touch"
+      ]
+    },
+    {
+      "statement": "● Random Access Memory (RAM) Support Limitations: In Windows 10, the lowest RAM (Random Access Memory) requirements are 1GB for 32-bit versions and 2GB for 64-bit versions.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "random",
+        "access",
+        "memory",
+        "ram",
+        "support"
+      ]
+    },
+    {
+      "statement": "In Windows 11, the base requirement is 4GB of RAM.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "windows",
+        "base",
+        "requirement",
+        "gb",
+        "ram"
+      ]
+    },
+    {
+      "statement": "● Group Policy Settings (Gpedit.msc): Editing Group Policies (with Gpedit.msc) locally or using Active Directory is largely unchanged.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "group",
+        "policy",
+        "settings",
+        "gpedit.msc",
+        "editing"
+      ]
+    },
+    {
+      "statement": "Note that Gpedit.msc is not available in Home licenses of Windows.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "gpedit.msc",
+        "available",
+        "home",
+        "licenses",
+        "windows"
+      ]
+    },
+    {
+      "statement": "● Remote Desktop Protocol: The Remote Desktop tool, used for connecting to the desktop of a different computer over a network connection, is largely unchanged between Windows versions.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "remote",
+        "desktop",
+        "protocol",
+        "remote",
+        "desktop"
+      ]
+    },
+    {
+      "statement": "● Bitlocker: Bitlocker, a drive encryption tool included with Windows, is largely unchanged.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "bitlocker",
+        "bitlocker",
+        "drive",
+        "encryption",
+        "tool"
+      ]
+    },
+    {
+      "statement": "Note that Bitlocker is only available for Pro and Enterprise licenses of Windows.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "bitlocker",
+        "available",
+        "pro",
+        "enterprise",
+        "licenses"
+      ]
+    },
+    {
+      "statement": "Key takeaways Operating systems like Windows 10 and Windows 11 are constantly changing and evolving.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "key",
+        "takeaways",
+        "operating",
+        "systems",
+        "windows"
+      ]
+    },
+    {
+      "statement": "Wolcott | 20 ● Windows 10 and Windows 11 primary difference is aesthetic.",
+      "type": "comparison",
+      "confidence": 1.0,
+      "keywords": [
+        "|",
+        "windows",
+        "windows",
+        "primary",
+        "difference"
+      ]
+    },
+    {
+      "statement": "Chrome OS is based on Linux BASH is the name of the shell (command line interface) for Linux.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "chrome",
+        "os",
+        "linux",
+        "bash",
+        "shell"
+      ]
+    },
+    {
+      "statement": "Scripting languages There are many scripting languages available to use for a variety of tasks in different operating system environments.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "scripting",
+        "languages",
+        "scripting",
+        "languages",
+        "available"
+      ]
+    },
+    {
+      "statement": "Scripting languages for Windows environments: ● PowerShell (.ps1) - Windows PowerShell is among the most common command line scripting tools used in Windows environments.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "scripting",
+        "languages",
+        "windows",
+        "environments",
+        "powershell"
+      ]
+    },
+    {
+      "statement": "PowerShell is built on the .NET platform and employs many of the same elements that programming languages do.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "powershell",
+        ".net",
+        "platform",
+        "elements",
+        "programming"
+      ]
+    },
+    {
+      "statement": "PowerShell scripts are used for building, testing, and deploying solutions, in addition to automating system management.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "powershell",
+        "scripts",
+        "building",
+        "testing",
+        "solutions"
+      ]
+    },
+    {
+      "statement": "● Batch scripts (.bat) - Batch scripts, also called batch files, have been around since the early days of MS DOS and OS/2.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "batch",
+        "scripts",
+        ".bat",
+        "batch",
+        "scripts"
+      ]
+    },
+    {
+      "statement": "● Visual Basic Script (.vbs) - Visual Basic Script is an older scripting language.",
+      "type": "general",
+      "confidence": 1.0,
+      "keywords": [
+        "visual",
+        "basic",
+        "script",
+        ".vbs",
+        "visual"
+      ]
+    }
+  ],
+  "summary": {
+    "key_concepts": [
+      "ip",
+      "port",
+      "windows",
+      "update",
+      "update",
+      "printer",
+      "linux",
+      "protocol",
+      "log",
+      "boot"
+    ],
+    "summary_sentences": [
+      "Google IT Support Professional Training (took 137hrs) Course #1: Technical Support Fundamentals Supplemental Reading on Connector Types USB 2.0, 3.0 & 3.1 Micro USB, USB-C & Lightning Port Communication Connectors Device Connectors Punch Down Blocks Key Takeaways When repairing mobile devices, Mobile Display Types Liquid Crystal Display (LCD) In-Plane Switching (IPS) Twisted Nematic (TN) VA-Vertical Alignment Organic Light Emitting Diodes (OLED) Active Matrix Organic Light Emitting Diode (AMOLED) Inorganic mini-LEDs (mLEDs) Inorganic micro-LEDs (μLEDs) Key takeaways What is a cyclical redundancy check?",
+      "Boot Methods Internal method External tools External bootable devices include: Window OS or Linux OS macOS Key Takeaways Boot Methods Best Practices The boot process Configuring boot options Boot method options External options Internal options Key Takeaways Windows 10 and 11 Feature Matrix Features Services and settings Key takeaways Common Scripting Solutions Scripting languages Scripting uses - finding the right tool for the job Security risks of using scripts Key takeaways Wolcott | 1 Technical Interview Prep Course #2: The Bits and Bytes of Computer Networking TCP/IP Five-Layer Network Protocol Dissection of a TCP Segment (below) Non-routable IP Addresses: Socket States System Ports versus Ephemeral Ports TCP ports and sockets Three categories of ports How TCP is used to ensure data integrity Port security Key takeaways Broadband Protocols Point to Point Protocol (PPP) Configuring PPP Sub-protocols for PPP Encapsulation Point to Point Protocol over Ethernet (PPPoE) Key takeaways Wan Protocols V2 Physical versus software-based WANs WAN optimization WAN Protocols Wi-Fi 6 Benefits of Wi-Fi 6 Capabilities of Wi-Fi 6 Wi-Fi 6E extends Wi-Fi 6 into 6 GHz Key takeaways Resource for more information Alphabet Soup: Wi-Fi Standards Wi-Fi 2.4 GHz and 5 GHz frequencies 2.4 GHz 5 GHz IEEE 802.11 standards IEEE 802.11 major updates list: IoT Data Transfer Protocols Data protocol models used with IoT IoT data protocols at the application layer WPA3 Protocols & Encryption WPA3-Personal WPA3-Enterprise Key takeaways Wireless Network Protocols for IoT IoT wireless network protocols at the physical layer Ways to investigate connection issues: Supplemental Reading for IPv6 and IPv4 Harmony Wolcott | 2 IPv6 and IPv4 harmony Tunneling Three types of tunnels Key takeaways Course #3: Operating Systems and You: Becoming a Power User Windows Powershell Commands [note that cmd.exe commands are from DOS]: Linux CLI Commands: Common Root Directory Subfolders Files and Permissions Package & Software Management Windows Software Packages Installation Package Portable Executable Self-extracting Executable App Packager Microsoft Store Key takeaways Resources for more information Mobile App Distribution How apps are distributed Apple mobile apps Custom Apple apps Android mobile apps Resources for more information Mobile App Packages: App Updates How to update apps Android mobile apps Apple mobile devices Resources for more information Mobile Device Storage Space Apple mobile devices Android mobile devices DLL Files and Windows Package Dependencies Dynamic link library (DLL) DLL dependencies Side-by-side assemblies Linux Package Dependencies The dpkg command Syntax Additional Debian package managers Package Managers Software Managers Linux Devices and Drivers Installing a device in Linux Device autodetect with udev Installation through a user interface - GNOME Wolcott | 3 How to check if a device is installed Windows Update Types of Windows updates Installing updates Automatic updates Manual updates Key takeaways Linux Update Linux kernel Updating Ubuntu Linux distribution Key Takeaways Resources for more information File Systems How to Format a Filesystem Disk Partitioning and Formatting in Windows DiskPart Cluster Size Key Takeaways Don’t forget to mount/ unmount external filesystems!",
+      "JOB SEARCHING GOOGLE IT SUPPORT PROFESSIONAL CERTIFICATE SKILLS LIST ● Basic computer architecture ● Operating systems (Windows, Linux) ● Remote connection and virtual machines ● Computer networking ● Software management ● Troubleshooting ● Customer service ● Routing concepts ● VPNs and proxies ● Permissioning ● Package and software management ● Process management ● Resource monitoring ● Systems administration ● Configuration ● Centralized management ● Implementing/managing directory services ● Data management and recovery ● IT security ● Cryptology/encryption ● Hashing ● Network security Common Job Search Terms ● Technical Support Specialist ● IT Help Desk ● Help Desk ● IT Technician ● IT Support Specialist ● Computer User Specialist ● IT Helpdesk Technician ● Computer Support ● Technical Support ● IT Assistant Wolcott | 133 Google IT Support Professional Training (took137hrs) Course #1: Technical Support Fundamentals Supplemental Reading on Connector Types USB 2.0, 3.0 & 3.1 Micro USB, USB-C & Lightning Port Communication Connectors Device Connectors Punch Down Blocks Key Takeaways When repairing mobile devices, Mobile Display Types Liquid Crystal Display (LCD) In-Plane Switching (IPS) Twisted Nematic (TN) VA-Vertical Alignment Organic Light Emitting Diodes (OLED) Active Matrix Organic Light Emitting Diode (AMOLED) Inorganic mini-LEDs (mLEDs) Inorganic micro-LEDs (μLEDs) Key takeaways What is a cyclical redundancy check?",
+      "Boot Methods Internal method External tools External bootable devices include: Window OS or Linux OS macOS Key Takeaways Boot Methods Best Practices The boot process Configuring boot options Boot method options External options Internal options Key Takeaways Windows 10 and 11 Feature Matrix Features Services and settings Key takeaways Common Scripting Solutions Scripting languages Scripting uses - finding the right tool for the job Security risks of using scripts Key takeaways Wolcott | 1 Technical Interview Prep Course #2: The Bits and Bytes of Computer Networking TCP/IP Five-Layer Network Protocol Dissection of a TCP Segment (below) Non-routable IP Addresses: Socket States System Ports versus Ephemeral Ports TCP ports and sockets Three categories of ports How TCP is used to ensure data integrity Port security Key takeaways Broadband Protocols Point to Point Protocol (PPP) Configuring PPP Sub-protocols for PPP Encapsulation Point to Point Protocol over Ethernet (PPPoE) Key takeaways Wan Protocols V2 Physical versus software-based WANs WAN optimization WAN Protocols Wi-Fi 6 Benefits of Wi-Fi 6 Capabilities of Wi-Fi 6 Wi-Fi 6E extends Wi-Fi 6 into 6 GHz Key takeaways Resource for more information Alphabet Soup: Wi-Fi Standards Wi-Fi 2.4 GHz and 5 GHz frequencies 2.4 GHz 5 GHz IEEE 802.11 standards IEEE 802.11 major updates list: IoT Data Transfer Protocols Data protocol models used with IoT IoT data protocols at the application layer WPA3 Protocols & Encryption WPA3-Personal WPA3-Enterprise Key takeaways Wireless Network Protocols for IoT IoT wireless network protocols at the physical layer Ways to investigate connection issues: Supplemental Reading for IPv6 and IPv4 Harmony Wolcott | 2 IPv6 and IPv4 harmony Tunneling Three types of tunnels Key takeaways Course #3: Operating Systems and You: Becoming a Power User Windows Powershell Commands [note that cmd.exe commands are from DOS]: Linux CLI Commands: Common Root Directory Subfolders Files and Permissions Package & Software Management Windows Software Packages Installation Package Portable Executable Self-extracting Executable App Packager Microsoft Store Key takeaways Resources for more information Mobile App Distribution How apps are distributed Apple mobile apps Custom Apple apps Android mobile apps Resources for more information Mobile App Packages: App Updates How to update apps Android mobile apps Apple mobile devices Resources for more information Mobile Device Storage Space Apple mobile devices Android mobile devices DLL Files and Windows Package Dependencies Dynamic link library (DLL) DLL dependencies Side-by-side assemblies Linux Package Dependencies The dpkg command Syntax Additional Debian package managers Package Managers Software Managers Linux Devices and Drivers Installing a device in Linux Device autodetect with udev Installation through a user interface - GNOME Wolcott | 3 How to check if a device is installed Windows Update Types of Windows updates Installing updates Automatic updates Manual updates Key takeaways Linux Update Linux kernel Updating Ubuntu Linux distribution Key Takeaways Resources for more information File Systems How to Format a Filesystem Disk Partitioning and Formatting in Windows DiskPart Cluster Size Key Takeaways Don’t forget to mount/ unmount external filesystems!",
+      "External tools include USB drives, optical media, solid state boot drives, external hot-swappable drives, network booting, and internet-based booting."
+    ],
+    "total_sentences": 6193,
+    "main_topics": [
+      "networking",
+      "networking",
+      "operating_systems",
+      "security",
+      "troubleshooting"
+    ]
+  },
+  "embeddings": {
+    "shape": [
+      1,
+      384
+    ],
+    "chunk_ids": [
+      0
+    ],
+    "source": "text_extractor",
+    "total_size_mb": 0.0029296875
+  },
+  "metadata": {
+    "total_chunks": 1,
+    "total_concepts": 50,
+    "total_topics": 0,
+    "total_facts": 100,
+    "analysis_quality": "high"
+  }
+}
